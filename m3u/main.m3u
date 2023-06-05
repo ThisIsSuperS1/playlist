@@ -29,5 +29,7 @@ http://xtv.ooo:8080/819121/819121/76723
 http://xtv.ooo:8080/819121/819121/26187
 #EXTINF:-1 tvg-id="" tvg-name="IND: Jio Kids" tvg-logo="" group-title="INDIAN | KIDS Cartoon",IND: Jio Kids
 http://xtv.ooo:8080/819121/819121/153157
+#EXTINF:-1 tvg-id="" tvg-name="IND: Nick_Marathi" tvg-logo="" group-title="IND |  MARATHI",IND: Nick_Marathi
+http://xtv.ooo:8080/819121/819121/244507
 #EXTINF:-1 tvg-id="" tvg-name="IND:Marathi: Sonic Marathi" tvg-logo="" group-title="IND |  MARATHI",IND:Marathi: Sonic Marathi
 http://xtv.ooo:8080/819121/819121/244508
