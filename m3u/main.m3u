@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="IND:Marathi: DD Sahyadri" tvg-logo="" group-title="IND |  MARATHI",IND:Marathi: DD Sahyadri
+http://xtv.ooo:8080/819121/819121/244492
+#EXTINF:-1 tvg-id="" tvg-name="IND:Marathi: Zee Marathi FHD" tvg-logo="" group-title="IND |  MARATHI",IND:Marathi: Zee Marathi FHD
+http://xtv.ooo:8080/819121/819121/244495
+#EXTINF:-1 tvg-id="" tvg-name="IND: ZEE MARATHI USA HD" tvg-logo="" group-title="IND |  MARATHI",IND: ZEE MARATHI USA HD
+http://xtv.ooo:8080/819121/819121/244500
+#EXTINF:-1 tvg-id="" tvg-name="IND:Marathi: Zee Talkies HD" tvg-logo="" group-title="IND |  MARATHI",IND:Marathi: Zee Talkies HD
+http://xtv.ooo:8080/819121/819121/244494
+#EXTINF:-1 tvg-id="" tvg-name="IND:Marathi: Sangeet_Marathi" tvg-logo="" group-title="IND |  MARATHI",IND:Marathi: Sangeet_Marathi
+http://xtv.ooo:8080/819121/819121/244497
+#EXTINF:-1 tvg-id="" tvg-name="IND:Marathi: Tulja Bhavani Live" tvg-logo="" group-title="IND |  MARATHI",IND:Marathi: Tulja Bhavani Live
+http://xtv.ooo:8080/819121/819121/244505
+
 #EXTINF:-1 tvg-id="" tvg-name="IN: Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="INDIAN | KIDS Cartoon",IN: HungamaG6Xxb2j33lPXB5RePGCEnH67bzjCo-ruJtZDUBGUwXIvvGSH65MxePYP7XAXiujbhFsWt6O6l-8caw
 http://xtv.ooo:8080/819121/819121/150480
 #EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network
@@ -29,7 +42,95 @@ http://xtv.ooo:8080/819121/819121/76723
 http://xtv.ooo:8080/819121/819121/26187
 #EXTINF:-1 tvg-id="" tvg-name="IND: Jio Kids" tvg-logo="" group-title="INDIAN | KIDS Cartoon",IND: Jio Kids
 http://xtv.ooo:8080/819121/819121/153157
-#EXTINF:-1 tvg-id="" tvg-name="IND: Nick_Marathi" tvg-logo="" group-title="IND |  MARATHI",IND: Nick_Marathi
-http://xtv.ooo:8080/819121/819121/244507
 #EXTINF:-1 tvg-id="" tvg-name="IND:Marathi: Sonic Marathi" tvg-logo="" group-title="IND |  MARATHI",IND:Marathi: Sonic Marathi
 http://xtv.ooo:8080/819121/819121/244508
+
+#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EARTH HD" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IN | BBC EART HD
+http://xtv.ooo:8080/819121/819121/206278
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
+http://xtv.ooo:8080/819121/819121/206282
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: Animal Planet FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN: Animal Planet FHD
+http://xtv.ooo:8080/819121/819121/206283
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IND: Nat Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD
+http://xtv.ooo:8080/819121/819121/206285
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
+http://xtv.ooo:8080/819121/819121/206286
+#EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Hindi *
+http://xtv.ooo:8080/819121/819121/206287
+#EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
+http://xtv.ooo:8080/819121/819121/206289
+#EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery_Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery_Turbo
+http://xtv.ooo:8080/819121/819121/206292
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History_18_Hindi" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: History_18_Hindi
+http://xtv.ooo:8080/819121/819121/206294
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IN: History TV 18 FHD
+http://xtv.ooo:8080/819121/819121/206295
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD
+http://xtv.ooo:8080/819121/819121/206587
+
+#EXTINF:-1 tvg-id="" tvg-name="***IND: SPORTS (4K ULTRA HD)***" tvg-logo="" group-title="INDIAN | SPORTS 4K (ULTRA HD)",***IND: SPORTS (4K ULTRA HD)***
+http://xtv.ooo:8080/819121/819121/109982
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten1.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Sony Ten 1 (4K)
+http://xtv.ooo:8080/819121/819121/109983
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 2 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten2.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Sony Ten 2 (4K)
+http://xtv.ooo:8080/819121/819121/109984
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten3.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Sony Ten 3 (4K)
+http://xtv.ooo:8080/819121/819121/109985
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sport 1 HINDI (4K)
+http://xtv.ooo:8080/819121/819121/109986
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sports 1 (4K)
+http://xtv.ooo:8080/819121/819121/109987
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="Star Sports 2 (4K)" tvg-logo="" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sports 2 (4K)
+http://xtv.ooo:8080/819121/819121/109988
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="SONY SIX (4K)" tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" group-title="INDIAN | SPORTS 4K (ULTRA HD)",SONY SIX (4K)
+http://xtv.ooo:8080/819121/819121/109992
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sports Select 1 (4K)
+http://xtv.ooo:8080/819121/819121/109993
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sports Select 2 (4K)
+http://xtv.ooo:8080/819121/819121/109994
+#EXTINF:-1 tvg-id="dsport.in" tvg-name="IN: EUROPSPORT (4K)" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",IN: EUROPSPORT (4K)
+http://xtv.ooo:8080/819121/819121/206324
+
+#EXTINF:-1 tvg-id="" tvg-name="|UK| DISNEY XD" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/disney_xd_us.png" group-title="UK",|UK| DISNEY XD
+http://xtv.ooo:8080/819121/819121/222798
+#EXTINF:-1 tvg-id="" tvg-name="|UK| ANIMAL PLANET" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/animal_planet_us.png" group-title="UK",|UK| ANIMAL PLANET
+http://xtv.ooo:8080/819121/819121/222785
+
+#EXTINF:-1 tvg-id="" tvg-name="US: Dog TV" tvg-logo="https://upload.wikimedia.org/wikipedia/de/f/f9/Dogtv.png" group-title="USA | ENTERTAINMENT",US: Dog TV
+http://xtv.ooo:8080/819121/819121/223616
+#EXTINF:-1 tvg-id="" tvg-name="US: Disney Channel HD" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/disney_channel_global.png" group-title="USA | DOCUMENTARY",US: Disney Channel HD
+http://xtv.ooo:8080/819121/819121/223636
+#EXTINF:-1 tvg-id="" tvg-name="US: Disney Channel West" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/disney_channel_global.png" group-title="USA | DOCUMENTARY",US: Disney Channel West
+http://xtv.ooo:8080/819121/819121/223637
+#EXTINF:-1 tvg-id="" tvg-name="US: Disney JR" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/disney_junior_us.png" group-title="USA | DOCUMENTARY",US: Disney JR
+http://xtv.ooo:8080/819121/819121/223638
+#EXTINF:-1 tvg-id="" tvg-name="US: Disney Junior West" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/disney_junior_us.png" group-title="USA | DOCUMENTARY",US: Disney Junior West
+http://xtv.ooo:8080/819121/819121/223639
+#EXTINF:-1 tvg-id="" tvg-name="US: Disney XD" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/disney_xd_us.png" group-title="USA | DOCUMENTARY",US: Disney XD
+http://xtv.ooo:8080/819121/819121/223640
+#EXTINF:-1 tvg-id="" tvg-name="US: Disney XD West" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/disney_xd_us.png" group-title="USA | DOCUMENTARY",US: Disney XD West
+http://xtv.ooo:8080/819121/819121/223641
+#EXTINF:-1 tvg-id="" tvg-name="US: Cartoon Network HD" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cartoon_network_global.png" group-title="USA | DOCUMENTARY",US: Cartoon Network HD
+http://xtv.ooo:8080/819121/819121/223642
+#EXTINF:-1 tvg-id="" tvg-name="US: Cartoon Network West HD" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cartoon_network_global.png" group-title="USA | DOCUMENTARY",US: Cartoon Network West HD
+http://xtv.ooo:8080/819121/819121/223643
+#EXTINF:-1 tvg-id="" tvg-name="US: Nick HD" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nickelodeon_us.png" group-title="USA | DOCUMENTARY",US: Nick HD
+http://xtv.ooo:8080/819121/819121/223644
+#EXTINF:-1 tvg-id="" tvg-name="US: Nicktoons HD" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/NICKTOONS/EXPORTACION_WEB/SS/NICKTOONSWHORIZONTAL.jpg?size=290x163" group-title="USA | DOCUMENTARY",US: Nicktoons HD
+http://xtv.ooo:8080/819121/819121/223645
+#EXTINF:-1 tvg-id="" tvg-name="US: Nick Jr HD" tvg-logo="https://clarovideocdn1.clarovideo.net/PELICULAS/NICKJR/EXPORTACION_WEB/SS/NICKJRWHORIZONTAL.jpg?size=290x163" group-title="USA | DOCUMENTARY",US: Nick Jr HD
+http://xtv.ooo:8080/819121/819121/223646
+#EXTINF:-1 tvg-id="" tvg-name="US: Nick Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/1200px-NickMusic.svg.png" group-title="USA | DOCUMENTARY",US: Nick Music
+http://xtv.ooo:8080/819121/819121/223647
+#EXTINF:-1 tvg-id="" tvg-name="US: Teen Nick" tvg-logo="http://109.238.11.8:25461/images/a8a22e7a4f855f2f3349eb1e2f99d05c.jpg" group-title="USA | DOCUMENTARY",US: Teen Nick
+http://xtv.ooo:8080/819121/819121/223648
+#EXTINF:-1 tvg-id="" tvg-name="US: Boomerang HD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/boomerang_global.png" group-title="USA | DOCUMENTARY",US: Boomerang HD
+http://xtv.ooo:8080/819121/819121/223649
+#EXTINF:-1 tvg-id="" tvg-name="US: PBS Kids HD" tvg-logo="https://pbskids.org/apps/media/apps/C_games_2.png" group-title="USA | DOCUMENTARY",US: PBS Kids HD
+http://xtv.ooo:8080/819121/819121/223650
+#EXTINF:-1 tvg-id="" tvg-name="US: Baby First" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/baby_first_tv.png" group-title="USA | DOCUMENTARY",US: Baby First
+http://xtv.ooo:8080/819121/819121/223651
+#EXTINF:-1 tvg-id="" tvg-name="US: Universal Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/1200px-Universal_Kids_2019_Logo.svg.png" group-title="USA | DOCUMENTARY",US: Universal Kids HD
+http://xtv.ooo:8080/819121/819121/223652
+#EXTINF:-1 tvg-id="" tvg-name="US: Lego Channel" tvg-logo="https://static2.mumzworld.com/media/brands/thumbnail/3/LEGO_logo_2.jpg" group-title="USA | DOCUMENTARY",US: Lego Channel
+http://xtv.ooo:8080/819121/819121/223653
