@@ -15,11 +15,11 @@ http://xtv.ooo:8080/819121/819121/244505
 #EXTINF:-1 tvg-id="" tvg-name="IN: Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="INDIAN | KIDS Cartoon",IN: HungamaG6Xxb2j33lPXB5RePGCEnH67bzjCo-ruJtZDUBGUwXIvvGSH65MxePYP7XAXiujbhFsWt6O6l-8caw
 http://xtv.ooo:8080/819121/819121/150480
 #EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network
-http://xtv.ooo:8080/819121/819121/150478
+http://202.125.144.115:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Cartoon Network HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_HD%2B_India_logo.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network HD+
 http://xtv.ooo:8080/819121/819121/153154
-#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN | DISNEY HD*
-http://xtv.ooo:8080/819121/819121/167551
+#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN | DISNEY HD*
+http://202.125.144.115:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ENG: DISNEY HD INTERNATIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="INDIAN | KIDS Cartoon",ENG: DISNEY HD INTERNATIONAL
 http://xtv.ooo:8080/819121/819121/167886
 #EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Nick
@@ -48,15 +48,15 @@ http://xtv.ooo:8080/819121/819121/244508
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EARTH HD" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IN | BBC EART HD
 http://xtv.ooo:8080/819121/819121/206278
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
-http://xtv.ooo:8080/819121/819121/206282
+http://202.125.144.115:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: Animal Planet FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN: Animal Planet FHD
 http://xtv.ooo:8080/819121/819121/206283
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IND: Nat Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD
-http://xtv.ooo:8080/819121/819121/206285
+http://202.125.144.115:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
-http://xtv.ooo:8080/819121/819121/206286
+http://202.125.144.115:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Hindi *
-http://xtv.ooo:8080/819121/819121/206287
+http://202.125.144.115:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
 http://xtv.ooo:8080/819121/819121/206289
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery_Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery_Turbo
@@ -65,8 +65,7 @@ http://xtv.ooo:8080/819121/819121/206292
 http://xtv.ooo:8080/819121/819121/206294
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IN: History TV 18 FHD
 http://xtv.ooo:8080/819121/819121/206295
-#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD
-http://xtv.ooo:8080/819121/819121/206587
+
 
 #EXTINF:-1 tvg-id="" tvg-name="***IND: SPORTS (4K ULTRA HD)***" tvg-logo="" group-title="INDIAN | SPORTS 4K (ULTRA HD)",***IND: SPORTS (4K ULTRA HD)***
 http://xtv.ooo:8080/819121/819121/109982
