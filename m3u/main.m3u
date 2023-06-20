@@ -17,6 +17,8 @@ http://202.125.144.115:8000/play/a008/index.m3u8
 http://202.125.144.115:8000/play/a00o/index.m3u8
 #EXTINF:-1,Disney
 http://103.61.73.220:8000/play/a05v
+#EXTINF:-1,Disney Jr.
+http://103.61.73.220:8000/play/a05y
 #EXTINF:-1,Dk
 http://202.125.144.115:8000/play/a00j/index.m3u8
 #EXTINF:-1,History tv18
