@@ -10,15 +10,17 @@ http://202.125.144.115:8000/play/a015/index.m3u8
 #EXTINF:-1,Bindas
 http://202.125.144.115:8000/play/a009/index.m3u8
 #EXTINF:-1,CARTOON NETWORK
-http://103.61.73.220:8000/play/a05t
+https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
 #EXTINF:-1,Colors Rishtey
 http://202.125.144.115:8000/play/a008/index.m3u8
-#EXTINF:-1,Discovery  hd
+#EXTINF:-1,Discovery HD
 http://202.125.144.115:8000/play/a00o/index.m3u8
+#EXTINF:-1,Discovery Kids
+https://i.mjh.nz/SamsungTVPlus/INBC15000054I.m3u8
 #EXTINF:-1,Disney
 http://103.61.73.220:8000/play/a05v
 #EXTINF:-1,Disney Jr.
-http://103.61.73.220:8000/play/a05y
+http://103.99.249.139/disneyjunior/index.m3u8
 #EXTINF:-1,Dk
 http://202.125.144.115:8000/play/a00j/index.m3u8
 #EXTINF:-1,History tv18
@@ -61,8 +63,8 @@ http://202.125.144.115:8000/play/a013/index.m3u8
 http://202.125.144.115:8000/play/a00b/index.m3u8
 #EXTINF:-1,colors
 http://202.125.144.115:8000/play/a003/index.m3u8
-#EXTINF:-1,pogo
-http://202.125.144.115:8000/play/a00i/index.m3u8
+#EXTINF:-1,Pogo
+https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 #EXTINF:-1,sony ten 1 HD
 http://202.125.144.115:8000/play/a00p/index.m3u8
 #EXTINF:-1,sony ten 2
